@@ -14,8 +14,8 @@ Este repositório contém a entrega da Primeira Avaliação da disciplina de FUN
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **[Linguagem]** (ex: Python 3.10 / C++ / Java)
-* **[Biblioteca/Framework 1]** (NumPy)
+* **[Linguagem]** (Python)
+* **[Biblioteca/Framework 1]** (NumPy / Time)
 
 ## Descrição dos AGs implementados
 
