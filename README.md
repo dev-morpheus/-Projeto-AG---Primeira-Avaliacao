@@ -1,7 +1,7 @@
 # 📚 Projeto AG - Primeira Avaliação
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
-![Linguagem Principal](https://img.shields.io/badge/Linguagem-Substituir_Aqui-blue?style=for-the-badge)
+![Linguagem Principal](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
 ## 🎯 Sobre o Projeto
 
